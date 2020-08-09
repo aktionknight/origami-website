@@ -1,0 +1,67 @@
+
+p,h1,h2,h3,h4
+{
+text-align: center;
+}
+
+h1
+{
+font-family: fantasy;
+color: rgb(144, 30, 210);
+}
+
+a:link
+{
+color:white
+
+}
+
+a:link
+
+{
+    text-decoration : none;
+}
+
+a:link
+
+{
+    background-color : burlywood
+}
+
+
+h1
+{
+    text-align: center;
+}
+
+p{
+    text-align: justify;
+}
+.header
+{
+    
+    background-image:url("texure.jpg");
+    text-align: center;
+}
+
+body
+{
+    background-color: #17e7be;
+  
+}
+
+.origami1
+{
+    display: flex;
+    background-color: seagreen;
+    flex-wrap: wrap;
+    justify-content: left;
+}
+
+.origami2
+{
+    display: flex;
+    background-color: coral;
+    flex-wrap: wrap;
+    justify-content: right;
+}
